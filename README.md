@@ -24,7 +24,16 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=flat&logo=react&logoColor=61DAFB)
 
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/devicon@v2.15.1/devicon.git/icons/tailwindcss/tailwindcss-original.svg)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
 
 
 
