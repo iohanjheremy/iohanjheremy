@@ -12,14 +12,18 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=777BB4)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=336791)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss&logoColor=38B2AC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6)
+![React Native](https://img.shields.io/badge/React_Native-000?style=flat&logo=react&logoColor=61DAFB)
+
 
 
 ## 📫 Vamos nos conectar!
