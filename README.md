@@ -25,15 +25,6 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ![React Native](https://img.shields.io/badge/React_Native-000?style=flat&logo=react&logoColor=61DAFB)
 
 
-
-![Tailwind CSS](https://badgen.net/badge/Tailwind%20CSS/?icon=tailwindcss&labelColor=38B2AC)
-![CSS3](https://badgen.net/badge/CSS3/000000?icon=css3&labelColor=1572B6)
-![React Native](https://badgen.net/badge/React%20Native/000000?icon=react&labelColor=61DAFB)
-![Laravel](https://badgen.net/badge/Laravel/000000?icon=laravel&labelColor=FF2D20)
-
-
-
-
 ## 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iohan-jheremy)
