@@ -23,9 +23,6 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss&logoColor=38B2AC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=flat&logo=react&logoColor=61DAFB)
-![Laravel](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg)![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg)
-
-
 
 
 
