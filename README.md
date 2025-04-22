@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ## 🧠 Sobre mim
 
 - 🔭 Atualmente estudando: **JavaScript, React e Node.js**
-- 💻 Conhecimento prévio em: **PHP com XAMPP, Bootstrap e MongoDB**
+- 💻 Conhecimento prévio em: **PHP com SQL, Bootstrap e MongoDB**
 - 💡 Gosto de desenvolver soluções criativas e funcionais, seja para web ou APIs
 - 📚 Sempre explorando novas ferramentas e boas práticas de desenvolvimento
 
@@ -16,8 +16,10 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
 
 ## 📫 Vamos nos conectar!
 
