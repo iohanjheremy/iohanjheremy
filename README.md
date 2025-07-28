@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente estudando: **Symfony, React, TypeScript e Node.js**
+- 🔭 Atualmente estudando: **Symfony, React, TypeScript e Django**
 - 💻 Conhecimento prévio em: **PHP, SQL, Python**
 - 💡 Gosto de desenvolver soluções criativas e funcionais, seja para web ou APIs
 - 📚 Sempre explorando novas ferramentas e boas práticas de desenvolvimento
