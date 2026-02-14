@@ -32,7 +32,7 @@ Sou um entusiasta da tecnologia, sempre em busca de aprender mais e colocar em p
 ## 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iohan-jheremy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailtoiohanjheremy11@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mailtoiohanjheremy11@gmail.com)
 
 ---
 
